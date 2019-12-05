@@ -1,0 +1,16 @@
+[
+  {
+    "type": "input",
+    "name": "Departure",
+    "placeholder": "Departure address",
+    "validator": "text",
+    "required": true
+  },
+  {
+    "type": "input",
+    "name": "Arrival",
+    "placeholder": "Arrival address",
+    "validator": "text",
+    "required": true
+  }
+]
